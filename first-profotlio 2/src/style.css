@@ -1,0 +1,6 @@
+/*This is my first CSS CODE BAHHA */
+body {
+  background: rgb(19,51,50);
+background: radial-gradient(circle, rgba(19,51,50,1) 13%, rgba(55,162,81,1) 28%, rgba(55,162,81,1) 36%, rgba(2,0,36,1) 41%, rgba(19,51,50,1) 44%, rgba(55,162,81,1) 46%, rgba(37,108,66,1) 46%, rgba(2,0,36,1) 49%, rgba(19,51,50,1) 52%, rgba(55,162,81,1) 53%, rgba(19,51,50,1) 56%, rgba(2,0,36,1) 57%, rgba(19,51,50,1) 63%, rgba(55,162,81,1) 66%, rgba(2,0,36,1) 67%, rgba(55,162,81,1) 80%, rgba(2,0,36,1) 81%, rgba(19,51,50,1) 85%, rgba(19,51,50,1) 91%);
+/*background: rgb(130,133,104);
+background: (344deg, rgba(130,133,104,1) 0%, rgba(130,133,104,1) 40%);
